@@ -1,3 +1,4 @@
+//http://10.108.2.40/api/
 var rn1 = Math.floor((Math.random()*6) + 1);
 var s1 = "images/" + rn1 + ".png";
 var dice1 = document.querySelectorAll("img")[0];
